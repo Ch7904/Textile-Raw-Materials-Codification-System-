@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const readline = require("readline");
 
-const mongoURI = "mongodb+srv://sioen:Krishna091004@cluster0.dggybaw.mongodb.net/sioenmern?retryWrites=true&w=majority&appName=Cluster0";
+const mongoURI = "mongodb+srv://sioen:@cluster0.dggybaw.mongodb.net/sioenmern?retryWrites=true&w=majority&appName=Cluster0";
 
 mongoose.set("strictQuery", false);
 
