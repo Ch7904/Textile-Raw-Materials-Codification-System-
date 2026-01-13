@@ -1,0 +1,179 @@
+[
+    {
+      "level1": "ADHESIVE TAPE",
+      "items": [
+        {
+          "code": "H02179",
+          "type": "UT",
+          "side": "SINGLE SIDE",
+          "sizes": [
+            {"code": "006", "size": "6 MM"},
+            {"code": "012", "size": "12 MM"},
+            {"code": "015", "size": "15 MM"},
+            {"code": "018", "size": "18 MM"},
+            {"code": "024", "size": "24 MM"},
+            {"code": "036", "size": "36 MM"},
+            {"code": "048", "size": "48 MM"},
+            {"code": "060", "size": "60 MM"},
+            {"code": "070", "size": "70 MM"},
+            {"code": "075", "size": "75 MM"}
+          ]
+        },
+        {
+          "code": "H02180",
+          "type": "UU",
+          "side": "DOUBLE SIDED",
+          "sizes": [
+            {"code": "006", "size": "6 MM"},
+            {"code": "012", "size": "12 MM"},
+            {"code": "015", "size": "15 MM"},
+            {"code": "018", "size": "18 MM"},
+            {"code": "024", "size": "24 MM"},
+            {"code": "036", "size": "36 MM"},
+            {"code": "048", "size": "48 MM"},
+            {"code": "060", "size": "60 MM"},
+            {"code": "070", "size": "70 MM"},
+            {"code": "075", "size": "75 MM"}
+          ]
+        }
+    ],
+      "level10": [
+        {"code": 0, "description": "SUPPLIER INDEPENDANT"},
+        {"code": 1, "description": "SUBNITES"},
+        {"code": 2, "description": "FROM CUSTOMER"}
+      ]
+    },
+    {
+      "level1": "BUCKLE",
+      "items": [
+        {
+          "code": "H02139",
+          "type": "PA",
+          "function": "ADJUSTER",
+          "options": {
+            "level3": [
+              {"code": "3", "description": "3-POINT LOCK"}
+            ],
+            "level4": [
+              {"code": "10", "description": "10 MM"}
+            ],
+            "level5": [
+              {"code": "L", "description": "LIGHT"}
+            ]
+          }
+        },
+        {
+          "code": "H02132",
+          "type": "NK",
+          "function": "CLAP BUCKLE",
+          "options": {
+            "level3": [
+              {"code": "M", "description": "METAL"}
+            ],
+            "level4": [
+              {"code": "12", "description": "12 MM"}
+            ],
+            "level5": [
+              {"code": "F", "description": "FEMALE PART"},
+              {"code": "M", "description": "MALE PART"}
+            ]
+          }
+        },
+        {
+          "code": "H02122",
+          "type": "NF",
+          "function": "FASTENER",
+          "options": {
+            "level3": [
+              {"code": "N", "description": "NICKLE"}
+            ]
+          }
+        },
+        {
+          "code": "H02120",
+          "type": "PO",
+          "function": "FOH HARNES",
+          "options": {
+            "level3": [
+              {"code": "P", "description": "PLASTIC"}
+            ]
+          }
+        },
+        {
+          "code": "H02134",
+          "type": "GA",
+          "function": "GADGET OF ACCESSORIES",
+          "options": {
+            "level3": [
+              {"code": "G", "description": "QUICK RELEASE"}
+            ]
+          }
+        },
+        {
+          "code": "H02133",
+          "type": "NL",
+          "function": "LIGHT BUCKLE",
+          "options": {
+            "level3": [
+              {"code": "R", "description": "RUBBER"}
+            ]
+          }
+        },
+        {
+          "code": "H02136",
+          "type": "SB",
+          "function": "SAFETY BUCKLE"
+        },
+        {
+          "code": "H02137",
+          "type": "RS",
+          "function": "SIDE RELEASE"
+        },
+        {
+          "code": "H02138",
+          "type": "PP",
+          "function": "SUSPENDER"
+        },
+        {
+          "code": "H02141",
+          "type": "TH",
+          "function": "TENSIONLOCK"
+        },
+        {
+          "code": "H02149",
+          "type": "NA",
+          "function": "FRONT RELEASE"
+        },
+        {
+          "code": "H02170",
+          "type": "PC",
+          "function": "CLOSING"
+        }
+      ],
+      "level10": [
+        {"code": "0", "description": "SUPPLIER INDEPENDANT"},
+        {"code": "2", "description": "DUE EMME"},
+        {"code": "A", "description": "AUFDERMAUR-SOEHNE (CAS)"},
+        {"code": "F", "description": "FIOCCHI"},
+        {"code": "M", "description": "MAKE FAST"},
+        {"code": "N", "description": "NEXUS"},
+        {"code": "Y", "description": "YKK"},
+        {"code": "K", "description": "FAKOPLAST"},
+        {"code": "Q", "description": "DURAFLEX"},
+        {"code": "T", "description": "T ASSISINDO"},
+        {"code": "I", "description": "ETITHEL"},
+        {"code": "L", "description": "ISP"},
+        {"code": "S", "description": "NINGBO"},
+        {"code": "D", "description": "DECATHLON"},
+        {"code": "U", "description": "AUSTA ALPIN"},
+        {"code": "P", "description": "DOULMEN"},
+        {"code": "V", "description": "VODUMPLASTIC"},
+        {"code": "R", "description": "TRIMMER-PRO"},
+        {"code": "T", "description": "NATIONAL MOLDING LLC"},
+        {"code": "C", "description": "NEW LACE"},
+        {"code": "B", "description": "BUTTONIA"},
+        {"code": "NI", "description": "NIFCO"}
+      ]
+    }
+  ]  
+  
